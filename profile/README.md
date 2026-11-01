@@ -40,7 +40,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a Proprietary Software License
 
 ## Contact
 
